@@ -7,6 +7,7 @@ export default () => (
         <a
           href={`/item/${i}`}
           key={i}
+          onClick={(e) => console.log(e)}
         >
           Item No. {i}
         </a>

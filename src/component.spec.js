@@ -1,7 +1,7 @@
 import React from 'react'
 import renderer from 'react-test-renderer'
 
-import Component from './'
+import Component from './component'
 
 describe('Component', () => {
   it('renders without props', () => {
