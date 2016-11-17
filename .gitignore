@@ -1,1 +1,4 @@
 node_modules/
+
+# Just for demo, in the repo for a real app
+__snapshots__
