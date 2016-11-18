@@ -1,0 +1,20 @@
+exports[`User reducer changes name when logged in 1`] = `
+Object {
+  "loggedIn": true,
+  "name": "Gregor Samsa",
+}
+`;
+
+exports[`User reducer creates initial state 1`] = `
+Object {
+  "loggedIn": true,
+  "name": null,
+}
+`;
+
+exports[`User reducer does not change name when not logged in 1`] = `
+Object {
+  "loggedIn": false,
+  "name": null,
+}
+`;
