@@ -1,3 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
 exports[`User reducer changes name when logged in 1`] = `
 Object {
   "loggedIn": true,

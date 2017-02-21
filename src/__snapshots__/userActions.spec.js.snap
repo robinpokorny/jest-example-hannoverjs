@@ -1,3 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
 exports[`User action loadUserBookings fetches bookings from the server 1`] = `"gregor/bookings"`;
 
 exports[`User action loadUserBookings has correct data 1`] = `

@@ -1,62 +1,74 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
 exports[`Component renders without props 1`] = `
 <div>
   <a
     href="/item/0"
-    onClick={[Function]}>
+    onClick={[Function]}
+  >
     Item No. 
     0
   </a>
   <a
     href="/item/1"
-    onClick={[Function]}>
+    onClick={[Function]}
+  >
     Item No. 
     1
   </a>
   <a
     href="/item/2"
-    onClick={[Function]}>
+    onClick={[Function]}
+  >
     Item No. 
     2
   </a>
   <a
     href="/item/3"
-    onClick={[Function]}>
+    onClick={[Function]}
+  >
     Item No. 
     3
   </a>
   <a
     href="/item/4"
-    onClick={[Function]}>
+    onClick={[Function]}
+  >
     Item No. 
     4
   </a>
   <a
     href="/item/5"
-    onClick={[Function]}>
+    onClick={[Function]}
+  >
     Item No. 
     5
   </a>
   <a
     href="/item/6"
-    onClick={[Function]}>
+    onClick={[Function]}
+  >
     Item No. 
     6
   </a>
   <a
     href="/item/7"
-    onClick={[Function]}>
+    onClick={[Function]}
+  >
     Item No. 
     7
   </a>
   <a
     href="/item/8"
-    onClick={[Function]}>
+    onClick={[Function]}
+  >
     Item No. 
     8
   </a>
   <a
     href="/item/9"
-    onClick={[Function]}>
+    onClick={[Function]}
+  >
     Item No. 
     9
   </a>
