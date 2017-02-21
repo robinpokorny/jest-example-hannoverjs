@@ -11,6 +11,9 @@ export const loadUserBookings = () =>
 
     return ({
       type: LOAD_USER_BOOKINGS,
-      payload: promise
+      payload: {
+        data: name,
+        promise
+      }
     })
   }
