@@ -1,4 +1,5 @@
 {
+  "private": true,
   "name": "jest-example-hannoverjs",
   "version": "1.0.0",
   "description": "Showcase of Jest for HannoverJS speech",
