@@ -1,7 +1,7 @@
 {
-  "name": "jest-example-berlinjs",
+  "name": "jest-example-hannoverjs",
   "version": "1.0.0",
-  "description": "Showcase of Jest for BerlinJS speech",
+  "description": "Showcase of Jest for HannoverJS speech",
   "scripts": {
     "test": "jest"
   },
