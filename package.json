@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "description": "Showcase of Jest for HannoverJS speech",
   "scripts": {
-    "test": "jest"
+    "test": "jest --watch"
   },
   "author": "Robin Pokorny <me@robinpokorny.com> (http://robinpokorny.com)",
   "main": "index.js",
