@@ -2,7 +2,7 @@ import { isFSA } from 'flux-standard-action'
 
 import * as actions from './userActions'
 
-describe.skip('loadUserBookings', () => {
+describe('loadUserBookings', () => {
   const action = actions.loadUserBookings()
 
   const state = {

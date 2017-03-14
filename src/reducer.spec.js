@@ -1,10 +1,10 @@
 import reducer from './reducer'
 
-test.skip('creates initial state', () => {
+test('creates initial state', () => {
   expect(reducer(undefined, {})).toMatchSnapshot()
 })
 
-test.skip('changes name when logged in', () => {
+test('changes name when logged in', () => {
   const action = {
     type: 'CHANGE_NAME',
     payload: 'Gregor Samsa'
@@ -13,7 +13,7 @@ test.skip('changes name when logged in', () => {
   expect(reducer(undefined, action)).toMatchSnapshot()
 })
 
-test.skip('does not change name when not logged in', () => {
+test('does not change name when not logged in', () => {
   const state = {
     loggedIn: false
   }

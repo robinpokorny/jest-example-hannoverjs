@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`changes name when logged in 1`] = `
+Object {
+  "loggedIn": true,
+  "name": "Gregor Samsa",
+}
+`;
+
+exports[`creates initial state 1`] = `
+Object {
+  "loggedIn": true,
+  "name": null,
+}
+`;
+
+exports[`does not change name when not logged in 1`] = `
+Object {
+  "loggedIn": false,
+  "name": null,
+}
+`;
