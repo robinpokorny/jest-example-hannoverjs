@@ -9,11 +9,15 @@ Array [
 `;
 
 exports[`loadUserBookings has correct data 1`] = `
-Object {
-  "payload": Object {
-    "data": "gregor",
-    "promise": Promise {},
-  },
-  "type": "LOAD_USER_BOOKINGS",
-}
+Array [
+  Array [
+    Object {
+      "payload": Object {
+        "data": "gregor",
+        "promise": Promise {},
+      },
+      "type": "LOAD_USER_BOOKINGS",
+    },
+  ],
+]
 `;
